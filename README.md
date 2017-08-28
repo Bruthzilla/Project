@@ -1,2 +1,2 @@
 # Project
-Project Course in Computer Science
+1DV508 - Project Course in Computer Science
